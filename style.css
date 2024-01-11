@@ -1,0 +1,20 @@
+table {
+    border: 1px solid black;
+
+
+}
+
+thead {
+    background-color: rgb(122, 105, 233);
+}
+
+tr:nth-child(even) {
+    background-color: rgb(255, 241, 239);
+}
+/* td:hover {background-color:  rgb(250, 239, 255);} */
+tr:hover {background-color:  rgb(242, 229, 252);}
+
+#thumbnail{
+    width: 100px;
+    height: 70px;
+}
